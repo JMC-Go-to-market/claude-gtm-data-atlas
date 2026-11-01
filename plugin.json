@@ -1,0 +1,19 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "gtm-data-atlas",
+  "version": "1.0.0",
+  "description": "Which data source for this list? The top 5 for the job from JMC's free GTM Data Atlas MCP, free sources first, with what each one misses and when it was last checked. No key. Configures the MCP server.",
+  "author": {
+    "name": "JMC Go-to-Market Systems",
+    "url": "https://jaymountconsulting.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "gtm",
+    "go-to-market",
+    "data-sources",
+    "b2b-data",
+    "mcp",
+    "citations"
+  ]
+}
