@@ -2,7 +2,7 @@
 
 Which data source for this list? The top 5 for the job from JMC's free GTM Data Atlas MCP, free sources first, with what each one misses and when it was last checked. No key. Configures the MCP server.
 
-An [Agent Skill](https://agentskills.io) and Claude Code plugin from JMC Go-to-Market Systems. Use it when the user asks where to get a kind of GTM data (company registries, work emails, mobile numbers, technographics, intent, hiring signals, funding, ads), or whether a free source covers it.
+An [Agent Skill](https://agentskills.io) and Claude Code plugin from JMC Go-to-Market Systems. Use it when the user asks where to get a kind of GTM data (company registries, work emails, intent, hiring signals, funding, ads), or whether a free source covers it.
 
 ## What it does
 
@@ -53,7 +53,7 @@ The free tool ranks sources by the words in the need. We measure it with 20 real
 | 20 eval needs | 80% | 43% |
 | 6 held-out needs | 83% | 56% |
 
-It still misses some needs whose words don't appear in the sources' descriptions: technographics, mobile numbers for decision makers, SEC filings, H-1B sponsorship and website-visitor identification. That's why the skill tells the agent to drop results that don't fit rather than pass them on.
+It still misses some needs whose words don't appear in the sources' descriptions: technographics, mobile numbers for decision makers, SEC filings, H-1B sponsorship and website-visitor identification. That's why the skill tells the agent to drop results that don't fit.
 
 ## Layout
 
@@ -65,6 +65,6 @@ skills/gtm-data-atlas/SKILL.md    the skill
 skills/gtm-data-atlas/references/ client setup, loaded only when needed
 ```
 
-## Licence
+## License
 
 MIT. See [LICENSE](LICENSE).
