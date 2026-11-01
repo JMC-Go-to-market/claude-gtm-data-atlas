@@ -1,0 +1,15 @@
+{
+  "name": "gtm-data-atlas",
+  "owner": {
+    "name": "JMC Go-to-Market Systems",
+    "url": "https://jaymountconsulting.com"
+  },
+  "description": "Which data source for this list? The top 5 for the job from JMC's free GTM Data Atlas MCP, free sources first, with what each one misses and when it was last checked. No key. Configures the MCP server.",
+  "plugins": [
+    {
+      "name": "gtm-data-atlas",
+      "source": "./",
+      "description": "Which data source for this list? The top 5 for the job from JMC's free GTM Data Atlas MCP, free sources first, with what each one misses and when it was last checked. No key. Configures the MCP server."
+    }
+  ]
+}
