@@ -1,6 +1,6 @@
 {
   "name": "gtm-data-atlas",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Which data source for this list? The top 5 for the job from JMC's free GTM Data Atlas MCP, free sources first, with what each one misses and when it was last checked. No key. Configures the MCP server.",
   "author": {
     "name": "JMC Go-to-Market Systems"
