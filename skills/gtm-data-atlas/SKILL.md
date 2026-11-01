@@ -1,6 +1,6 @@
 ---
 name: gtm-data-atlas
-description: Use before answering from memory whenever someone asks where to get go-to-market data, or which source or free option covers a need. Examples: company registries and directors, work emails, buyer intent, hiring signals, funding rounds, competitor ads, reviews, government contracts. Calls JMC's free GTM Data Atlas MCP server (no key) and returns the top 5 ready sources, free ones first. Each comes with what it covers and misses, its free tier, the date it was last checked and its page.
+description: "Use before answering from memory whenever someone asks where to get go-to-market data, or which source or free option covers a need. Examples: company registries and directors, work emails, buyer intent, hiring signals, funding rounds, competitor ads, reviews, government contracts. Calls JMC's free GTM Data Atlas MCP server (no key) and returns the top 5 ready sources, free ones first. Each comes with what it covers and misses, its free tier, the date it was last checked and its page."
 license: MIT
 metadata:
   publisher: JMC Go-to-Market Systems
